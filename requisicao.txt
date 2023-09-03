@@ -1,1 +1,3 @@
-https://guilhermeonrails.github.io/casadocodigo/livros.json
+https://guilhermeonrails.github.io/casadocodigo/livros.json         
+
+https://raw.githubusercontent.com/Iusley/metodos-array/main/livros.json

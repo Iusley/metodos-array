@@ -1,0 +1,1 @@
+livros.filter(livro => livro.quantidade > 0) : livros.filter(livro => livro.categoria == categoria)
